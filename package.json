@@ -26,7 +26,9 @@
   "homepage": "https://github.com/KvJellyBean/memory-card#readme",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-parallax-tilt": "^1.7.220",
+    "uniqid": "^5.4.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
