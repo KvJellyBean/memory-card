@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/KvJellyBean/memory-card">
-    <img src="./src/assets/logoBanner.jpeg" alt="Logo Banner">
+    <img src="./public/logoBanner.png" alt="Logo Banner">
   </a>
 
 <h3 align="center">PokeMatch</h3>
@@ -12,7 +12,7 @@
   <p align="center">
     Immerse yourself in the nostalgia of Pokemon as you challenge your memory with our captivating web-based card matching game, featuring your favorite Pokemon characters!
     <br />
-    <a href="https://kvjellybean.github.io/memory-card/">View Demo</a>
+    <a href="https://memory-card-kvjellybean.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/KvJellyBean/memory-card/issues">Report Bug</a>
 </div>
@@ -122,4 +122,4 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[product-gif]: ./src/assets/pokematch.gif
+[product-gif]: ./public/pokematch.gif
